@@ -1,0 +1,12 @@
+.navbar-toggler-icon{
+    background-color:rgba(27, 147, 143, 0.422) !important;
+    border-radius: 50%;
+}
+.fnav{
+    color: black !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+.fnav:hover{
+    color: rgb(52, 150, 150) !important;
+}
